@@ -7,5 +7,4 @@ router.register('advice', views.AdviceView)
 
 urlpatterns = [
     path('', include(router.urls)),
-
 ]
