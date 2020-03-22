@@ -23,7 +23,7 @@
     <option name="TEMPLATE_CONFIGURATION" value="Django" />
     <option name="TEMPLATE_FOLDERS">
       <list>
-        <option value="$MODULE_DIR$/../Driver_Help\templates" />
+        <option value="$MODULE_DIR$/driver_portal/templates" />
       </list>
     </option>
   </component>
